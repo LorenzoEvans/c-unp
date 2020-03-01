@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
-project(intro)
+project(intro C)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_C_STANDARD 99)
 
-add_executable(intro main.cpp)
+add_executable(intro main.c)
