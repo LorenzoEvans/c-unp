@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="JIfrEioY" />
+  </component>
+  <component name="ProjectId" id="1YXxeQsaZl4TCM0F41j95xKOBCy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="intro" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="intro" TARGET_NAME="intro" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="intro" RUN_TARGET_NAME="intro">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
